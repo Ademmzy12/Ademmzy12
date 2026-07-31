@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Adunmade 👋
 
-<!--
-**Ademmzy12/Ademmzy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Software Engineer | AI Automation Engineer | CRM Solutions Architect
 
-Here are some ideas to get you started:
+I build scalable web applications, AI-powered business solutions, CRM platforms, and workflow automation systems that help businesses operate more efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With over four years of experience, I specialize in designing and developing software that combines modern web technologies with business automation to solve real-world challenges.
+
+---
+
+## 🚀 Currently Building
+
+⚽ **FootballKE** — A modern football platform dedicated to Kenyan football, featuring live scores, fixtures, league standings, player statistics, club profiles, and football news.
+
+---
+
+## 💻 Technical Skills
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- REST APIs
+- Webhooks
+- OAuth
+- JSON
+
+### Database
+- PostgreSQL
+- SQL
+
+### AI & Automation
+- OpenAI API
+- Zoho One
+- Zoho CRM
+- Zoho Creator
+- ActiveCampaign
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+## 📌 Featured Projects
+
+### ⚽ FootballKE *(Active Development)*
+Building a modern football platform focused on Kenyan football.
+
+**Tech Stack**
+
+- Next.js
+- React
+- TypeScript
+- PostgreSQL
+- Tailwind CSS
+
+---
+
+### 🤖 AI Client Management Platform
+
+An AI-powered business management platform that automates customer onboarding, CRM, subscriptions, support, and reporting.
+
+---
+
+### 📄 Quote Management Platform
+
+A quotation management system that automates pricing, approvals, PDF generation, inventory synchronization, and sales order creation.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- PostgreSQL Optimization
+- Cloud Deployment
+- Scalable Backend Architecture
+- AI Engineering
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/emmanuel-adunmade-878a69312
+- Email: emmanueladunmade@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
