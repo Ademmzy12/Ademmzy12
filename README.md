@@ -4,7 +4,7 @@
 
 I build scalable web applications, AI-powered business solutions, CRM platforms, and workflow automation systems that help businesses operate more efficiently.
 
-With over four years of experience, I specialize in designing and developing software that combines modern web technologies with business automation to solve real-world challenges.
+I'm passionate about building software that solves real business problems. My work combines full-stack web development, AI automation, and CRM engineering to help businesses streamline operations, improve customer experiences, and make better decisions with data.
 
 ---
 
